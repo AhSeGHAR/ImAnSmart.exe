@@ -1,0 +1,2 @@
+Version 1.0=The first ImAnSmart Virus
+Version 1.25=Added Update Log
