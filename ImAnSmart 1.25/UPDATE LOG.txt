@@ -1,2 +1,4 @@
 Version 1.0=The first ImAnSmart Virus
 Version 1.25=Added Update Log
+Coming Soon:Version 1.50 (The Animation will change from Ruffle
+to youtube *Subscribe Ahseghar05 Ples*)
